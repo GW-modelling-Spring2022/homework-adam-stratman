@@ -13,7 +13,7 @@
 
 2. Show that the steady state flux agrees with the direct calculation based on the harmonic mean average K.  Write the equation defining the direct calculation of the flux.
 
-![](Q3.png))
+![](Q3.png)
 
 3. Show the steady state head profile for a column with approximately equal-thickness layers that have different K values.
 
